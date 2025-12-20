@@ -2,11 +2,19 @@ apiVersion: v1
 entries:
   block-buster-helm-app:
   - apiVersion: v2
-    created: "2025-12-14T17:50:33.000768+01:00"
+    created: "2025-12-20T13:30:19.868611+01:00"
+    description: A Helm chart for Block Buster App
+    digest: fd86f33bb0843a0f40416211022749f0dcf64d32f4609c0921a402bc8347f983
+    name: block-buster-helm-app
+    urls:
+    - https://salahalaoui.github.io/bb-app-helm-charts/block-buster-helm-app-7.6.1.tgz
+    version: 7.6.1
+  - apiVersion: v2
+    created: "2025-12-20T13:30:19.868166+01:00"
     description: A Helm chart for Block Buster App
     digest: 8a94b85f3e92ae6a4332c7e7a556b54bd5405278a2829656cab024ed14d3a923
     name: block-buster-helm-app
     urls:
     - https://salahalaoui.github.io/bb-app-helm-charts/block-buster-helm-app-7.6.0.tgz
     version: 7.6.0
-generated: "2025-12-14T17:50:33.000267+01:00"
+generated: "2025-12-20T13:30:19.867629+01:00"
